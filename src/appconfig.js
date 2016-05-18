@@ -19,7 +19,7 @@
 			$get: function () {
 				return {
 					delay: values.delay
-                }
+                };
             }
 		};
 		
